@@ -1,7 +1,7 @@
  **Olá, eu sou o Matheus Dias!**
 - :mortar_board: Graduando em Engenharia de Software.
 - :computer: Me aprofundando em Desenvolvimento Web.
-- :books: Estudando JavaScript.
+- :books: Estudando Java, Kotlin, Spring Boot, JavaScript, Angular.
 <br>
 <div align="center">
   <a href="https://github.com/MatheusPrestesDias">
